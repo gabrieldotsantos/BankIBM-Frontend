@@ -1,3 +1,8 @@
+## Conexão com a API
+
+Acessar o arquivo src/utils/api.ts
+Configurar baseURL: "http://localhost:5000/api/" caso seja diferente da atual.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
